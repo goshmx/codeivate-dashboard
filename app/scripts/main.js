@@ -1,4 +1,4 @@
-var urlJsonUsers = '/scripts/users.json';
+var urlJsonUsers = './scripts/users.json';
 var jsonUsers = [];
 var template,source,pichon;
 var pichonValue = 1000;
